@@ -1,0 +1,4 @@
+eland
+pandas
+tensorflow
+python-dotenv
